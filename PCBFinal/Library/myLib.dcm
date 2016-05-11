@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP P_CH_MOSFET
+D -100V Vds, -23A Id, HEXFET P-Channel MOSFET, TO-220
+K HEXFET P-Channel MOSFET
+F http://www.irf.com/product-info/datasheets/data/irf9540n.pdf
+$ENDCMP
+#
+$CMP RT7258
+D 750 mA Fast-Transient Low Dropout Voltage Regulator, Adjustable Output 1.2-5.5V, SOIC8
+K 750mA LDO Regulator Adjustable Positive
+F http://www.ti.com/lit/ds/symlink/tps77725.pdf
+$ENDCMP
+#
+$CMP TPS77815D
+D 750 mA Fast-Transient Low Dropout Voltage Regulator, Fixed Output 1.5V, SOIC8
+K 750mA LDO Regulator Fixed Positive
+F http://www.ti.com/lit/ds/symlink/tps77725.pdf
+$ENDCMP
+#
+$CMP TPS77818D
+D 750 mA Fast-Transient Low Dropout Voltage Regulator, Fixed Output 1.8V, SOIC8
+K 750mA LDO Regulator Fixed Positive
+F http://www.ti.com/lit/ds/symlink/tps77725.pdf
+$ENDCMP
+#
+$CMP TPS77825D
+D 750 mA Fast-Transient Low Dropout Voltage Regulator, Fixed Output 2.5V, SOIC8
+K 750mA LDO Regulator Fixed Positive
+F http://www.ti.com/lit/ds/symlink/tps77725.pdf
+$ENDCMP
+#
+$CMP TPS77833D
+D 750 mA Fast-Transient Low Dropout Voltage Regulator, Fixed Output 3.3V, SOIC8
+K 750mA LDO Regulator Fixed Positive
+F http://www.ti.com/lit/ds/symlink/tps77725.pdf
+$ENDCMP
+#
+#End Doc Library
